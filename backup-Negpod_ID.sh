@@ -2,7 +2,7 @@
 # Set the remote server hostname and username
 HOSTNAME="remote_server_hostname"
 USERNAME="remote_server_username"
-# Set the directory to back up
+# Set the directory to backup
 BACKUP_DIR="/path/to/directory/to/backup"
 # Set the remote backup directory
 REMOTE_BACKUP_DIR="/path/to/remote/backup/directory"
