@@ -1,6 +1,6 @@
 #!/bin/bash
 mkdir -p negpod_3-q1
-#moving FILE	
+#moving files
 
 mv students-list_0923.txt negpod_3-q1/
 mv select-emails.sh negpod_3-q1/
